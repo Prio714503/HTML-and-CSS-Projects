@@ -266,7 +266,7 @@ section {
   float: right;
 }
 .terms:hover {
-  color: orange;
+  color: rgb(189, 134, 33);
   text-decoration: underline;
 }
 .submit input[type="submit"] {
@@ -283,12 +283,12 @@ section {
   font-size: 18px;
   transition: border-color 0.3s color 0.3s background-color 0.3s;
   border-radius: 7px;
-  background-color: #797a7b;
+  background-color: green;
   box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.3);
 }
 .submit input[type="submit"]:hover {
   color: #000;
-  background-color: #8d8e8f;
+  background-color: green;
   box-shadow: inset 1px 2px 15px 0 rgba(0, 0, 0, 0.5);
 }
 
