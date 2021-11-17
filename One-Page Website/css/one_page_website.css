@@ -63,7 +63,13 @@ video {
 	border-radius: 20px;
 	
 }
+.rsvp {
+    border: solid;
+    border-radius: 4px;
+    width: 114px;
+    margin: 5px;
 
+}
 
     
 
