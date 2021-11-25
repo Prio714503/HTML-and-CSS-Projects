@@ -22,7 +22,7 @@ jumbotron, cards, form, and dropdowns.
 
 # One Page Website
 
-This project contains a restuarant home page that is styled using a variety of CSS
+This project contains a Restuarant home page that is styled using a variety of CSS
 elements. An active navbav, several images, image containers, form, table, and a video just to name a few.
 
 
